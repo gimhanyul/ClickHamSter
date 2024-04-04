@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ClickHamSter/static/css/main.80bd9521.css",
+    "main.js": "/ClickHamSter/static/js/main.096736fe.js",
+    "static/js/453.0f588dcb.chunk.js": "/ClickHamSter/static/js/453.0f588dcb.chunk.js",
+    "static/media/cocohappy.jpg": "/ClickHamSter/static/media/cocohappy.7f740114cd0379df303a.jpg",
+    "static/media/coco_out.jpg": "/ClickHamSter/static/media/coco_out.6bf4c6ac7fb0570b2192.jpg",
+    "static/media/coco_in.jpg": "/ClickHamSter/static/media/coco_in.a73df3c8b7dbd967e4f0.jpg",
+    "index.html": "/ClickHamSter/index.html",
+    "main.80bd9521.css.map": "/ClickHamSter/static/css/main.80bd9521.css.map",
+    "main.096736fe.js.map": "/ClickHamSter/static/js/main.096736fe.js.map",
+    "453.0f588dcb.chunk.js.map": "/ClickHamSter/static/js/453.0f588dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80bd9521.css",
+    "static/js/main.096736fe.js"
+  ]
+}
